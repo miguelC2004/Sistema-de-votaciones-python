@@ -1,11 +1,4 @@
-'''Sistema de votación realizado por Miguel cataño con el objetivo de evidenciar
-de alguna manera los conocimientos adquiridos
 
-29/12/23
-
-
-profe, mil disculpas. le suplico de favor que me ayude por esta ocasión
-'''
 voto1 = 0
 voto2 = 0
 voto3 = 0
