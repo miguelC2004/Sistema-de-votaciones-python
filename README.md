@@ -25,9 +25,5 @@ Los resultados se mostrarán en la etiqueta de resultados.
 - Calcula y muestra el total de votos.
 
 
-Ten en cuenta que este script es solo un ejemplo básico y puede ser mejorado y adaptado según tus necesidades y requisitos específicos.
-
-
-
 
 
