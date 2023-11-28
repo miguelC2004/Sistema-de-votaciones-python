@@ -11,9 +11,9 @@ Biblioteca Tkinter
 
 2. Instala la biblioteca Tkinter si no está instalada. Puedes instalarla ejecutando el siguiente comando en cmd:
 
-´´´sh
+```py
 pip install tkinter
-´´´
+```
 
 3. Ejecuta el script Python contador_de_votos.py.
 Aparecerá una ventana con los nombres de los candidatos y botones para votar por cada uno.
