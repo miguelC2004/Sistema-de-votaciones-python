@@ -14,7 +14,7 @@ Biblioteca Tkinter
 ```py
 pip install tkinter
 ```
-
+*lista*
 3. Ejecuta el script Python contador_de_votos.py.
 Aparecerá una ventana con los nombres de los candidatos y botones para votar por cada uno.
 Haz clic en el botón del candidato al que deseas votar.
